@@ -240,4 +240,4 @@ This repository serves as the official landing page for FileBot. The software is
 Make sure to replace `softyne.com` with your actual website URL. This README is tailored to FileBot with unique phrasing and specific details, ensuring it meets all compliance requirements for GitHub.
 
 ---
-**Last updated:** 2026-09-14 11:22:50 UTC
+**Last updated:** 2026-09-14 17:20:56 UTC
